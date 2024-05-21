@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>security-service</name>
 	<description>A Spring Boot project for comprehensive user authentication and authorization, featuring user registration, login,
-		password management, role-based access control, and permissions management.</description>
+		password management, role-based access control, and permissions management</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
